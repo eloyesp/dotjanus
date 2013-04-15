@@ -1,0 +1,3 @@
+[submodule "abolish"]
+	path = abolish
+	url = git://github.com/tpope/vim-abolish.git
