@@ -1,4 +1,4 @@
-color desert
+color solarized
 
 if exists(":Tabularize")
   nmap <Leader>a= :Tabularize /=<CR>
