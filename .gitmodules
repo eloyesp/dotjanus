@@ -7,3 +7,6 @@
 [submodule "rake"]
 	path = rake
 	url = git://github.com/tpope/vim-rake.git
+[submodule "sensible"]
+	path = sensible
+	url = git://github.com/tpope/vim-sensible.git
