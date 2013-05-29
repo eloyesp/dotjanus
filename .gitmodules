@@ -13,3 +13,6 @@
 [submodule "obsession"]
 	path = obsession
 	url = git://github.com/tpope/vim-obsession.git
+[submodule "camelcasemotion"]
+	path = camelcasemotion
+	url = git://github.com/vim-scripts/camelcasemotion.git
