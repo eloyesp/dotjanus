@@ -1,4 +1,7 @@
-color solarized
+syntax enable
+set background=dark
+colorscheme solarized
+call togglebg#map("<F6>")
 
 if exists(":Tabularize")
   nmap <Leader>a= :Tabularize /=<CR>
