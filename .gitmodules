@@ -16,3 +16,6 @@
 [submodule "camelcasemotion"]
 	path = camelcasemotion
 	url = git://github.com/vim-scripts/camelcasemotion.git
+[submodule "pandoc"]
+	path = pandoc
+	url = git://github.com/vim-pandoc/vim-pandoc.git
