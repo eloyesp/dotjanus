@@ -1,3 +1,12 @@
 let mapleader = "ñ"
+let maplocalleader = '\'
 
 call janus#disable_plugin('vimwiki')"
+
+" configure markdown
+if has('python')
+  call janus#disable_plugin('markdown')"
+  let g:pandoc_use_hard_wraps = 1
+  let g:pandoc_auto_format = 1
+  let g:pandoc_no_empty_implicits = 1
+endif
