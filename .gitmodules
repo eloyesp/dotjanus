@@ -25,3 +25,6 @@
 [submodule "bundler"]
 	path = bundler
 	url = git://github.com/tpope/vim-bundler.git
+[submodule "rbenv"]
+	path = rbenv
+	url = git://github.com/tpope/vim-rbenv.git
