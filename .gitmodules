@@ -19,3 +19,9 @@
 [submodule "pandoc"]
 	path = pandoc
 	url = git://github.com/vim-pandoc/vim-pandoc.git
+[submodule "fontsize"]
+	path = fontsize
+	url = git@github.com:drmikehenry/vim-fontsize.git
+[submodule "bundler"]
+	path = bundler
+	url = git://github.com/tpope/vim-bundler.git
